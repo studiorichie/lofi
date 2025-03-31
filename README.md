@@ -1,4 +1,10 @@
-# 🎞️ StudioRich: Lo-Fi Watchtower
+# The Lo-Fi Watch Towers
+
+A Brooklyn-based signal stream from StudioRich.  
+Broadcasting hypnotic loops, cinematic fragments, and lo-fi dreamscapes from deep within the Towers.  
+Built by the Towers Crew. Run by memory.  
+🌀📡  
+
 
 A soft signal for quiet wanderers.  
 This is a side-channel broadcast from **StudioRich**, blending nostalgic visuals with lo-fi soundscapes—archived for the ages.
