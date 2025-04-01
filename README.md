@@ -1,4 +1,4 @@
-# The Lo-Fi Watch Towers
+# The Lo-Fi 
 
 A Brooklyn-based signal stream from StudioRich.  
 Broadcasting hypnotic loops, cinematic fragments, and lo-fi dreamscapes from deep within the Towers.  
