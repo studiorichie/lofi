@@ -24,7 +24,7 @@ We archive every moment: one broadcast, one dream at a time.
 - [StudioRich Website](https://studiorich.shop)  
 - [YouTube](https://www.youtube.com/@StudioRich)  
 - [SoundCloud](https://soundcloud.com/studiorich)  
-- [This Page (Live)](https://studiorichie.github.io/lofi/)  
+- [This Page (Live)](https://studiorxch.github.io/lofi/)  
 
 ---
 
